@@ -62,7 +62,7 @@ export const storeProducts = [
   {
     id: 5,
     title: "Apple iPad ",
-    img: "img/IPAD.PNG",
+    img: "img/IPAD.png",
     price: 200,
     company: "APPLE",
     info: "Gorgeous 25.91 cm (10.2-inch) Retina display.A12 Bionic chip with Neural Engine",
